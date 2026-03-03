@@ -1,8 +1,8 @@
-title: 'DyRef: Dynamic Reflection Framework via Graph-Based Complexity for Robotic Planning'
+title: 'FISRF: Flexible Instructional Scaffolding Reflection Framework for Robotics Task Planning with Large Language Model'
 remote_theme: pages-themes/cayman@v0.2.0
 # github:
 #   zip_url: http://example.com/download.zip
 #   repository_url: https://github.com/DyReF/DyReF.github.io
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-description: ICRA 2026<br/>Anonymous Author(s)
+description: IROS 2026<br/>Anonymous Author(s)
